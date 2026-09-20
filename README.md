@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Yasmin, a 17-year-old medical student from Egypt 🇪🇬 who enjoys exploring the world of mathematics, programming, and computational science.
+I'm Yasmin, a 17-year-old medical student from Egypt who enjoys exploring the world of mathematics, programming, and computational science.
 
 Although I'm studying medicine, I have a strong passion for technology and problem-solving. I learn programming and mathematics as a hobby, with the goal of combining these fields in the future.
 
